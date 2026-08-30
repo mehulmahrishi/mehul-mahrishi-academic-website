@@ -138,3 +138,33 @@ h3{font-size:1.52rem;letter-spacing:-.015em}
 .deploy-card{background:white;border:1px solid var(--line);border-radius:12px;padding:20px}
 @media(max-width:900px){.detail-layout{grid-template-columns:1fr}.detail-aside{position:relative;top:auto}.research-map,.deploy-grid{grid-template-columns:1fr}}
 @media(max-width:650px){.form-grid{grid-template-columns:1fr}.field.full{grid-column:auto}}
+
+html{scroll-behavior:auto}
+.site-header{position:relative;top:auto}
+.fade-up,.fade-up.in{opacity:1!important;transform:none!important;transition:none!important}
+.home-simple{padding:54px 0 45px}
+.home-simple .hero-grid{grid-template-columns:1.2fr .8fr;gap:62px}
+.home-simple h1{font-size:clamp(3rem,5vw,5.2rem)}
+.simple-intro{max-width:760px;font-size:1.08rem;color:var(--muted)}
+.quick-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-top:34px}
+.quick-card{background:white;border:1px solid var(--line);border-radius:11px;padding:19px;min-height:126px}
+.quick-card strong{display:block;color:var(--navy);font-family:Georgia,serif;font-size:1.14rem;margin-bottom:6px}
+.quick-card span{color:var(--muted);font-size:.78rem}
+.compact-strip{padding:28px 0 54px}.compact-strip .metrics-grid{box-shadow:none}
+.content-section{padding:58px 0}.content-section.white{background:white}
+.resume-list{margin:0;padding-left:20px}.resume-list li{margin:0 0 15px;padding-left:4px;color:#47535d}.resume-list li strong{color:var(--navy)}.resume-list.compact li{margin-bottom:9px}
+.section-title-row{display:flex;justify-content:space-between;gap:24px;align-items:end;margin-bottom:26px}.section-title-row h2{margin-bottom:0}
+.pub-group{margin:0 0 56px}.pub-entry{display:grid;grid-template-columns:50px 1fr;gap:18px;padding:18px 0;border-bottom:1px solid var(--line)}
+.pub-entry .num{font-weight:850;color:var(--teal);font-size:.78rem;padding-top:4px}.pub-entry h3{font-family:Inter,sans-serif;font-size:.97rem;line-height:1.45;margin:0 0 5px;color:var(--navy)}
+.pub-entry p{margin:3px 0;color:var(--muted);font-size:.82rem}.pub-entry .authors{color:#47535d}.pub-entry .links{margin-top:7px;font-size:.76rem}
+.resume-table{width:100%;border-collapse:collapse;font-size:.82rem;background:white}.resume-table th{background:#EDF2F1;text-align:left;color:var(--navy);font-size:.68rem;text-transform:uppercase;letter-spacing:.07em;padding:11px;border:1px solid var(--line)}
+.resume-table td{padding:12px 11px;border:1px solid var(--line);vertical-align:top}
+.service-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:18px}.service-card{background:white;border:1px solid var(--line);border-radius:12px;padding:24px}.service-card h3{font-size:1.35rem}
+.engagement-block{margin-bottom:58px}.engagement-item{padding:17px 0;border-bottom:1px solid var(--line)}.engagement-item strong{color:var(--navy)}.engagement-item .meta{font-size:.72rem;color:var(--teal);font-weight:800;text-transform:uppercase;letter-spacing:.07em;margin-bottom:4px}
+.project-full{border:1px solid var(--line);background:white;border-radius:13px;padding:27px;margin-bottom:20px}.project-full h3{margin-bottom:8px}.project-links{display:flex;flex-wrap:wrap;gap:9px;margin-top:17px}
+.detail-list{display:grid;grid-template-columns:160px 1fr;gap:6px 18px;font-size:.84rem;margin:18px 0}.detail-list dt{color:var(--muted);font-weight:700}.detail-list dd{margin:0;color:var(--navy)}
+.profile-role{margin-bottom:38px}.profile-role h3{margin-bottom:6px}.profile-role .dates{color:var(--teal);font-size:.78rem;font-weight:800}
+.resource-card{background:white;border:1px solid var(--line);border-radius:11px;padding:20px}.resource-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.note{padding:14px 16px;background:#EDF3F3;border-left:3px solid var(--teal);font-size:.82rem;color:#52616b;margin-bottom:35px}
+@media(max-width:950px){.quick-grid,.resource-grid,.service-grid{grid-template-columns:1fr 1fr}.home-simple .hero-grid{grid-template-columns:1fr}.resume-table{display:block;overflow-x:auto}}
+@media(max-width:620px){.quick-grid,.resource-grid,.service-grid{grid-template-columns:1fr}.pub-entry{grid-template-columns:36px 1fr}.detail-list{grid-template-columns:1fr}.section-title-row{display:block}}
