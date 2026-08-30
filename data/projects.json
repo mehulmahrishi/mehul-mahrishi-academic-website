@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "obexcel",
+    "title": "OBEXcel: Online Evaluation of Teaching and Learning Outcomes",
+    "scheme": "NOVUS 2024",
+    "agency": "Institute for the Future of Education, Tecnológico de Monterrey, Mexico",
+    "role": "Co-PI",
+    "funding": "MXN 181,681",
+    "status": "Ongoing",
+    "focus": "Teaching and learning outcomes; outcome-based education; graduate attributes"
+  },
+  {
+    "slug": "icncs-anrf-2025",
+    "title": "ANRF Support for ICNCS-2025",
+    "scheme": "Conference Support",
+    "agency": "Anusandhan National Research Foundation",
+    "role": "Academic organizing initiative",
+    "funding": "INR 250,000",
+    "status": "Completed",
+    "focus": "International Conference on Next-Gen Computing and Communication Systems"
+  },
+  {
+    "slug": "atal-data-analytics-2025",
+    "title": "AICTE ATAL Academy Faculty Development Programme",
+    "scheme": "ATAL Academy",
+    "agency": "AICTE",
+    "role": "Organizing initiative",
+    "funding": "INR 100,000",
+    "status": "Completed",
+    "focus": "Data Analytics for Decision Making: Tools and Techniques"
+  }
+]

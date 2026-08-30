@@ -1,0 +1,8 @@
+# Cloudflare Pages migration redirects
+/publications/ /publications.html 301
+/about-me/ /profile.html 301
+/research/ /research.html 301
+/projects-funding/ /projects.html 301
+/research-scholars/ /teaching.html 301
+/learning-resources-created/ /teaching.html 301
+/* /404.html 404

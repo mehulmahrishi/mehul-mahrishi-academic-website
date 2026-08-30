@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>{{SITE_URL}}/index.html</loc></url>
+  <url><loc>{{SITE_URL}}/research.html</loc></url>
+  <url><loc>{{SITE_URL}}/publications.html</loc></url>
+  <url><loc>{{SITE_URL}}/projects.html</loc></url>
+  <url><loc>{{SITE_URL}}/profile.html</loc></url>
+  <url><loc>{{SITE_URL}}/teaching.html</loc></url>
+  <url><loc>{{SITE_URL}}/engagement.html</loc></url>
+  <url><loc>{{SITE_URL}}/contact.html</loc></url>
+  <url><loc>{{SITE_URL}}/research-ai-education.html</loc></url>
+  <url><loc>{{SITE_URL}}/research-engineering-education.html</loc></url>
+  <url><loc>{{SITE_URL}}/research-applied-ai.html</loc></url>
+  <url><loc>{{SITE_URL}}/project-obexcel.html</loc></url>
+  <url><loc>{{SITE_URL}}/publication/large-scale-multi-class-pest-image-classification-using-structurally-adapted-densenet-arch.html</loc></url>
+  <url><loc>{{SITE_URL}}/publication/transforming-education-in-the-21st-century-foresight-and-sustainable-development.html</loc></url>
+  <url><loc>{{SITE_URL}}/publication/a-systematic-literature-review-of-the-global-trends-of-outcome-based-education-obe-in-high.html</loc></url>
+  <url><loc>{{SITE_URL}}/publication/ai-governance-in-higher-education-a-meta-analytic-thematic-review-of-current-research-tren.html</loc></url>
+  <url><loc>{{SITE_URL}}/publication/contemplating-and-visualizing-gameful-experience-gamex-in-education-through-bibliometric-a.html</loc></url>
+  <url><loc>{{SITE_URL}}/publication/correlation-of-students-academic-progress-counseling-and-tutoring-with-graduating-attribut.html</loc></url>
+  <url><loc>{{SITE_URL}}/publication/global-initiatives-towards-regulatory-frameworks-for-artificial-intelligence-ai-in-higher-.html</loc></url>
+  <url><loc>{{SITE_URL}}/publication/opinion-mining-of-professors-sentiments-towards-the-adoption-of-technology-the-latest-teac.html</loc></url>
+  <url><loc>{{SITE_URL}}/publication/the-genesis-and-prevalence-of-the-hyflex-model-a-systematic-review-and-bibliometric-analys.html</loc></url>
+  <url><loc>{{SITE_URL}}/publication/emerging-dynamics-of-chatgpt-in-academia-a-scoping-review.html</loc></url>
+  <url><loc>{{SITE_URL}}/publication/a-machine-learning-based-approach-to-analyze-public-sentiment-on-indian-new-education-poli.html</loc></url>
+  <url><loc>{{SITE_URL}}/publication/assessment-of-knowledge-gaps-in-outcome-based-education-obe-among-engineering-faculty-memb.html</loc></url>
+  <url><loc>{{SITE_URL}}/publication/emotion-recognition-in-hindi-text-using-multilingual-bert-transformer.html</loc></url>
+  <url><loc>{{SITE_URL}}/publication/towards-assessment-and-attainment-of-engineering-graduate-attributes-in-outcome-based-educ.html</loc></url>
+  <url><loc>{{SITE_URL}}/publication/a-review-of-speech-sentiment-analysis-using-machine-learning.html</loc></url>
+  <url><loc>{{SITE_URL}}/publication/a-framework-for-index-point-detection-using-effective-title-extraction-from-video-thumbnai.html</loc></url>
+  <url><loc>{{SITE_URL}}/publication/nam-a-nearest-acquaintance-modeling-approach-for-vm-allocation-using-r-tree.html</loc></url>
+  <url><loc>{{SITE_URL}}/publication/performance-comparison-of-network-intrusion-detection-system-based-on-different-pre-proces.html</loc></url>
+  <url><loc>{{SITE_URL}}/publication/video-index-point-detection-and-extraction-framework-using-custom-yolov4-darknet-object-de.html</loc></url>
+  <url><loc>{{SITE_URL}}/publication/traffic-prediction-for-intelligent-transportation-system-using-machine-learning.html</loc></url>
+</urlset>
