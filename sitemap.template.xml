@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>{{SITE_URL}}/index.html</loc></url>
-  <url><loc>{{SITE_URL}}/research.html</loc></url>
-  <url><loc>{{SITE_URL}}/publications.html</loc></url>
+  <url><loc>{{SITE_URL}}/research-publications.html</loc></url>
+  <url><loc>{{SITE_URL}}/research-publications.html</loc></url>
   <url><loc>{{SITE_URL}}/projects.html</loc></url>
   <url><loc>{{SITE_URL}}/profile.html</loc></url>
   <url><loc>{{SITE_URL}}/teaching.html</loc></url>
-  <url><loc>{{SITE_URL}}/engagement.html</loc></url>
+  <url><loc>{{SITE_URL}}/invited-talks.html</loc></url>
   <url><loc>{{SITE_URL}}/contact.html</loc></url>
   <url><loc>{{SITE_URL}}/research-ai-education.html</loc></url>
   <url><loc>{{SITE_URL}}/research-engineering-education.html</loc></url>
@@ -32,4 +32,5 @@
   <url><loc>{{SITE_URL}}/publication/performance-comparison-of-network-intrusion-detection-system-based-on-different-pre-proces.html</loc></url>
   <url><loc>{{SITE_URL}}/publication/video-index-point-detection-and-extraction-framework-using-custom-yolov4-darknet-object-de.html</loc></url>
   <url><loc>{{SITE_URL}}/publication/traffic-prediction-for-intelligent-transportation-system-using-machine-learning.html</loc></url>
+  <url><loc>{{SITE_URL}}/editorial-service.html</loc></url>
 </urlset>

@@ -1,12 +1,12 @@
-# Mehul Mahrishi Academic Website — V6 Resume-Complete
+# Mehul Mahrishi Academic Website - V7
 
-- Homepage reduced to basic profile information and quick navigation.
-- Scroll/reveal effects removed; pages only use normal browser scrolling where long content requires it.
-- Publications page: all 17 journal + 20 conference + 4 book-chapter entries in the CV, plus 2 authored books.
-- Publication filters/search removed.
-- Projects & Grants expanded with major project/output links.
-- Academic Profile expanded with experience and academic responsibilities.
-- Teaching & Mentorship includes all 16 research scholars and learning-resource links.
-- Engagement & Service includes invited talks, international engagements, conference leadership, all FDP/workshop/school entries, editorial roles, guest editorial work, peer review, memberships and scholarly service.
-- Media & Commentary removed.
-- Cloudflare/GitHub deployment files retained.
+Changes:
+- Added direct links to both LaTeX handouts from the original CV.
+- Research Scholars Guided redesigned into summary metrics, doctoral spotlight and visual M.Tech supervision cards.
+- Research Areas and Publications merged into a single Research & Publications tab/page.
+- Engagement & Service replaced by Invited Talks, Keynotes & Expert Sessions.
+- Editorial & Professional Service moved to a dedicated tab/page.
+- OBEXcel status updated to Completed - June 2026, based on the latest user-provided information.
+- Full Academic CV upgraded with a professional cover, bookmarks, original 13-page detailed CV preserved, and OBEXcel status updated.
+- CV download representation upgraded on the Academic Profile page.
+- Legacy research.html, publications.html and engagement.html redirect to the new structure.

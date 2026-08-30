@@ -168,3 +168,25 @@ html{scroll-behavior:auto}
 .note{padding:14px 16px;background:#EDF3F3;border-left:3px solid var(--teal);font-size:.82rem;color:#52616b;margin-bottom:35px}
 @media(max-width:950px){.quick-grid,.resource-grid,.service-grid{grid-template-columns:1fr 1fr}.home-simple .hero-grid{grid-template-columns:1fr}.resume-table{display:block;overflow-x:auto}}
 @media(max-width:620px){.quick-grid,.resource-grid,.service-grid{grid-template-columns:1fr}.pub-entry{grid-template-columns:36px 1fr}.detail-list{grid-template-columns:1fr}.section-title-row{display:block}}
+
+/* V7 refinements */
+.nav-links{gap:12px;font-size:.72rem}
+.scholar-summary{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:24px 0 28px}
+.scholar-summary>div{background:#fff;border:1px solid var(--line);border-radius:10px;padding:18px}
+.scholar-summary strong{display:block;font-family:Georgia,serif;font-size:1.8rem;color:var(--navy)}
+.scholar-summary span{font-size:.76rem;color:var(--muted)}
+.phd-spotlight{display:flex;justify-content:space-between;gap:20px;align-items:flex-start;background:linear-gradient(135deg,#0D2038,#173653);color:#fff;padding:26px;border-radius:14px}
+.phd-spotlight h3{color:#fff;margin:5px 0 8px}.phd-spotlight p{color:#d9e3ea;margin:0;max-width:760px}
+.status-badge{background:#DCEDEC;color:#245f5d;border-radius:999px;padding:7px 11px;font-size:.72rem;font-weight:800;white-space:nowrap}
+.scholar-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:13px}
+.scholar-card{background:#fff;border:1px solid var(--line);border-radius:11px;padding:18px;position:relative}
+.scholar-card h3{font-size:1.15rem;margin:18px 0 3px}.scholar-card p{font-size:.82rem;color:var(--muted);margin:8px 0 0}
+.scholar-year{position:absolute;right:13px;top:12px;color:var(--teal);font-weight:850;font-size:.72rem}
+.scholar-level{font-size:.7rem;text-transform:uppercase;letter-spacing:.08em;color:var(--blue);font-weight:800}
+.cv-download-card{display:grid;grid-template-columns:92px 1fr;gap:24px;background:#fff;border:1px solid var(--line);border-radius:14px;padding:25px;margin:25px 0 48px;box-shadow:0 12px 28px rgba(13,32,56,.05)}
+.cv-icon{width:78px;height:98px;background:var(--navy);color:#fff;border-radius:7px;display:grid;place-items:center;font-family:Georgia,serif;font-size:1.7rem;box-shadow:8px 10px 18px rgba(13,32,56,.15)}
+.cv-copy h3{margin:6px 0 7px}.cv-copy p{margin:0;color:var(--muted)}
+.cv-meta{display:flex;flex-wrap:wrap;gap:7px;margin-top:15px}.cv-meta span{font-size:.66rem;background:#EDF2F1;color:var(--blue);padding:5px 8px;border-radius:999px;font-weight:750}
+.research-area-grid{margin-bottom:18px}
+@media(max-width:900px){.nav-links{font-size:.78rem}.scholar-grid{grid-template-columns:1fr}.cv-download-card{grid-template-columns:1fr}.phd-spotlight{display:block}.status-badge{display:inline-block;margin-top:15px}}
+@media(max-width:620px){.scholar-summary{grid-template-columns:1fr}}
